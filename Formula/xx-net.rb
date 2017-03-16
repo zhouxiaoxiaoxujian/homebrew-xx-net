@@ -6,7 +6,7 @@ class XxNet < Formula
   desc "a web proxy tool"
   homepage "https://github.com/XX-net/XX-Net"
   url "https://github.com/XX-net/XX-Net/archive/3.3.0.tar.gz"
-  sha256 "9aee994e0808dabe99ae8dc07e583728673d9fc0f7663e76e605936d13db4f19"
+  sha256 "4224586d5dbf543039c9b83457b74f025cea8380cfbe12aae25cfb6e3198dde1"
 
   depends_on "python" => :run
 
